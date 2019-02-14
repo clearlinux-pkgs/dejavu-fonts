@@ -1,6 +1,6 @@
 Name     : dejavu-fonts
 Version  : 2.37
-Release  : 1
+Release  : 2
 URL      : http://sourceforge.net/projects/dejavu/files/dejavu/2.37/dejavu-fonts-ttf-2.37.tar.bz2
 Source0  : http://sourceforge.net/projects/dejavu/files/dejavu/2.37/dejavu-fonts-ttf-2.37.tar.bz2
 Summary  : No detailed summary available
